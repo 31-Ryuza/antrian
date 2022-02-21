@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7B763735-EB1D-40D9-9C64-27A5AC6DDAF2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Antrian/Program.cs">
+    <Files>
+      <File FileName="Antrian/Program.cs" Line="17" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Antrian" expanded="True">
+            <Node name="Antrian" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Antrian PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

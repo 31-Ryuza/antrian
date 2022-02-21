@@ -1,0 +1,13 @@
+/Users/rizaagustiansyah/Documents/Visual Studio/Antrian/Antrian/bin/Debug/netcoreapp3.1/Antrian.deps.json
+/Users/rizaagustiansyah/Documents/Visual Studio/Antrian/Antrian/bin/Debug/netcoreapp3.1/Antrian.runtimeconfig.json
+/Users/rizaagustiansyah/Documents/Visual Studio/Antrian/Antrian/bin/Debug/netcoreapp3.1/Antrian.runtimeconfig.dev.json
+/Users/rizaagustiansyah/Documents/Visual Studio/Antrian/Antrian/bin/Debug/netcoreapp3.1/Antrian.dll
+/Users/rizaagustiansyah/Documents/Visual Studio/Antrian/Antrian/bin/Debug/netcoreapp3.1/Antrian.pdb
+/Users/rizaagustiansyah/Documents/Visual Studio/Antrian/Antrian/obj/Debug/netcoreapp3.1/Antrian.csproj.AssemblyReference.cache
+/Users/rizaagustiansyah/Documents/Visual Studio/Antrian/Antrian/obj/Debug/netcoreapp3.1/Antrian.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizaagustiansyah/Documents/Visual Studio/Antrian/Antrian/obj/Debug/netcoreapp3.1/Antrian.AssemblyInfoInputs.cache
+/Users/rizaagustiansyah/Documents/Visual Studio/Antrian/Antrian/obj/Debug/netcoreapp3.1/Antrian.AssemblyInfo.cs
+/Users/rizaagustiansyah/Documents/Visual Studio/Antrian/Antrian/obj/Debug/netcoreapp3.1/Antrian.csproj.CoreCompileInputs.cache
+/Users/rizaagustiansyah/Documents/Visual Studio/Antrian/Antrian/obj/Debug/netcoreapp3.1/Antrian.dll
+/Users/rizaagustiansyah/Documents/Visual Studio/Antrian/Antrian/obj/Debug/netcoreapp3.1/Antrian.pdb
+/Users/rizaagustiansyah/Documents/Visual Studio/Antrian/Antrian/obj/Debug/netcoreapp3.1/Antrian.genruntimeconfig.cache
